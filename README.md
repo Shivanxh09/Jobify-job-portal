@@ -32,7 +32,7 @@ A complete job portal web application built using the **MERN Stack**, enabling j
 
 ---
 
-## ⚙️ Installation & Running Locally
+
 ## ⚙️ Installation & Running Locally
 
 ### 1. Clone the Repository
