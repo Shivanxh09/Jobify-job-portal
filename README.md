@@ -41,14 +41,14 @@ git clone https://github.com/your-username/job-portal.git
 cd job-portal
 ```
 
-2. Setup Backend
+### 2. Setup Backend
 ```bash
 cd backend
 npm install
 # Add your MongoDB URI to .env
 npm start
 ```
-3. Setup Frontend
+### 3. Setup Frontend
 ```bash
 
 cd frontend
